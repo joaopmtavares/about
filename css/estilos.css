@@ -1,0 +1,27 @@
+body {
+    background: #EEEEEE;
+    font-family: Arial;
+}
+  
+.menu {
+    background: white;
+}
+  
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+  
+.menu li {
+    list-style: none;
+}
+  
+a {
+    color: teal;
+    text-decoration: none;
+}
+  
+a:hover {
+    font-weight: bold;
+    text-decoration: underline;
+}
